@@ -2756,7 +2756,7 @@
         "LensSerialNumber": "2AA01328"
       }
     },
-    "hidden": false,
+    "hidden": true,
     "fileSize": null,
     "dimensions": null,
     "uploadedAt": "2025-04-10T21:57:31.306Z"
