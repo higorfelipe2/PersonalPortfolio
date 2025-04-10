@@ -3977,7 +3977,7 @@
     "uploadedAt": "2025-04-10T23:17:54.767Z"
   },
   {
-    "id": 22,
+    "id": 21,
     "filename": "000010580036.jpg",
     "title": "Photo 000010580036.jpg",
     "description": "",
@@ -3990,5 +3990,17 @@
     "fileSize": 21227706,
     "dimensions": null,
     "uploadedAt": "2025-04-10T23:20:10.166Z"
+  },
+  {
+    "id": 22,
+    "filename": "000022290032.jpg",
+    "title": "Photo 000022290032.jpg",
+    "description": "",
+    "tags": [],
+    "exifData": null,
+    "hidden": false,
+    "fileSize": 17494986,
+    "dimensions": null,
+    "uploadedAt": "2025-04-10T23:23:11.526Z"
   }
 ]
