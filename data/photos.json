@@ -3965,7 +3965,11 @@
     "filename": "DSCF0028.jpg",
     "title": "Photo DSCF0028.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "pink",
+      "street",
+      "Portugal"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 11310729,
