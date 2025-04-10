@@ -3949,7 +3949,10 @@
     "filename": "000010430017.jpg",
     "title": "Photo 000010430017.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "portrait",
+      "black and white"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 12591562,
