@@ -1,0 +1,15 @@
+[
+  {
+    "username": "admin",
+    "password": "$2b$10$RBwovPQhilDKnYeuTnEwZ.feoU0eRy5V3LLjlL4slDxejO.wMKysG",
+    "isAdmin": true,
+    "id": 1,
+    "email": "higoralvesdefreitas@outlook.com",
+    "phone": "+447447416712",
+    "twoFactorEnabled": true,
+    "twoFactorSecret": null,
+    "twoFactorMethod": "email",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  }
+]
