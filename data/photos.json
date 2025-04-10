@@ -3029,5 +3029,79 @@
     "fileSize": null,
     "dimensions": null,
     "uploadedAt": "2025-04-10T21:55:37.229Z"
+  },
+  {
+    "id": 14,
+    "filename": "1744322245656-432854672.jpg",
+    "title": "test",
+    "description": "",
+    "tags": [],
+    "exifData": {
+      "ifd0": {
+        "Make": "FUJIFILM",
+        "Model": "X-S10",
+        "XResolution": 240,
+        "YResolution": 240,
+        "ResolutionUnit": "inches",
+        "Software": "Adobe Lightroom 8.2 (Windows)",
+        "ModifyDate": "2025-03-28T17:49:09.000Z"
+      },
+      "ifd1": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": "inches",
+        "ThumbnailOffset": 942,
+        "ThumbnailLength": 9480
+      },
+      "exif": {
+        "ExposureTime": 0.00025,
+        "FNumber": 2.8,
+        "ExposureProgram": "Aperture priority",
+        "ISO": 640,
+        "SensitivityType": 1,
+        "ExifVersion": "2.3.2",
+        "DateTimeOriginal": "2023-08-28T03:17:44.000Z",
+        "CreateDate": "2023-08-28T03:17:44.000Z",
+        "OffsetTime": "+00:00",
+        "ShutterSpeedValue": 11.965784,
+        "ApertureValue": 2.970854,
+        "BrightnessValue": 10.33,
+        "ExposureCompensation": 0.67,
+        "MaxApertureValue": 3,
+        "MeteringMode": "Pattern",
+        "LightSource": "Unknown",
+        "Flash": "Flash did not fire",
+        "FocalLength": 27,
+        "ColorSpace": 1,
+        "FocalPlaneXResolution": 2660,
+        "FocalPlaneYResolution": 2660,
+        "FocalPlaneResolutionUnit": "Centimeter",
+        "SensingMethod": "One-chip color area sensor",
+        "FileSource": "Digital Camera",
+        "SceneType": "Directly photographed",
+        "CustomRendered": "Normal",
+        "ExposureMode": "Auto",
+        "WhiteBalance": "Auto",
+        "FocalLengthIn35mmFormat": 41,
+        "SceneCaptureType": "Standard",
+        "Sharpness": "Normal",
+        "SubjectDistanceRange": "Unknown",
+        "SerialNumber": "1C015586",
+        "LensInfo": [
+          27,
+          27,
+          2.8,
+          2.8
+        ],
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF27mmF2.8 R WR",
+        "LensSerialNumber": "2AA01328"
+      }
+    },
+    "hidden": false,
+    "fileSize": null,
+    "dimensions": null,
+    "uploadedAt": "2025-04-10T21:57:31.306Z"
   }
 ]
