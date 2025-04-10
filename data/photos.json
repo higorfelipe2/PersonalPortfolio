@@ -3985,5 +3985,17 @@
     "fileSize": 14493203,
     "dimensions": null,
     "uploadedAt": "2025-04-10T23:09:33.171Z"
+  },
+  {
+    "id": 19,
+    "filename": "FUJI4107.jpg",
+    "title": "Photo FUJI4107.jpg",
+    "description": "",
+    "tags": [],
+    "exifData": null,
+    "hidden": false,
+    "fileSize": 9171914,
+    "dimensions": null,
+    "uploadedAt": "2025-04-10T23:10:22.538Z"
   }
 ]
