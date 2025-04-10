@@ -3975,5 +3975,17 @@
     "fileSize": 17268251,
     "dimensions": null,
     "uploadedAt": "2025-04-10T23:17:54.767Z"
+  },
+  {
+    "id": 21,
+    "filename": "000010580036.jpg",
+    "title": "Photo 000010580036.jpg",
+    "description": "",
+    "tags": [],
+    "exifData": null,
+    "hidden": false,
+    "fileSize": 21227706,
+    "dimensions": null,
+    "uploadedAt": "2025-04-10T23:18:43.512Z"
   }
 ]
