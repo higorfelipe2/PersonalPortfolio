@@ -31,6 +31,14 @@
       "message": "Test email 2",
       "timestamp": "2025-04-06T20:00:03.131Z",
       "ipAddress": "172.31.128.73"
+    },
+    {
+      "id": "m9br8sh35w8c8w797",
+      "name": "GitHub Test User",
+      "email": "test@example.com",
+      "message": "Testing GitHub synchronization feature",
+      "timestamp": "2025-04-10T19:32:18.855Z",
+      "ipAddress": "127.0.0.1"
     }
   ],
   "lastChecked": "2025-04-06T19:36:02.676Z"
