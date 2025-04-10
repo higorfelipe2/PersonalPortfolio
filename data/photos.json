@@ -2949,88 +2949,6 @@
     "uploadedAt": "2025-04-10T21:34:04.943Z"
   },
   {
-    "id": 13,
-    "filename": "1744320941736-585339278.jpg",
-    "title": "Untitled",
-    "description": "",
-    "tags": [],
-    "exifData": {
-      "ifd0": {
-        "Make": "Leica Camera AG",
-        "Model": "LEICA M (Typ 240)",
-        "XResolution": 240,
-        "YResolution": 240,
-        "ResolutionUnit": "inches",
-        "Software": "Adobe Lightroom 8.2 (Windows)",
-        "ModifyDate": "2025-04-10T21:34:38.000Z",
-        "Copyright": "© Higor Alves"
-      },
-      "ifd1": {
-        "Compression": 6,
-        "XResolution": 72,
-        "YResolution": 72,
-        "ResolutionUnit": "inches",
-        "ThumbnailOffset": 1144,
-        "ThumbnailLength": 14208
-      },
-      "exif": {
-        "ExposureTime": 0.016666666666666666,
-        "FNumber": 2,
-        "ExposureProgram": "Aperture priority",
-        "ISO": 400,
-        "ExifVersion": "2.3.1",
-        "DateTimeOriginal": "2025-04-10T20:11:28.000Z",
-        "CreateDate": "2025-04-10T20:11:28.000Z",
-        "OffsetTime": "+01:00",
-        "ShutterSpeedValue": 5.906891,
-        "ApertureValue": 2,
-        "ExposureCompensation": 0,
-        "MaxApertureValue": 1.99609375,
-        "MeteringMode": "CenterWeightedAverage",
-        "LightSource": "Unknown",
-        "Flash": "Flash did not fire",
-        "FocalLength": 28,
-        "ColorSpace": 1,
-        "FocalPlaneXResolution": 1653.3333435058594,
-        "FocalPlaneYResolution": 1653.3333435058594,
-        "FocalPlaneResolutionUnit": "Centimeter",
-        "FileSource": "Digital Camera",
-        "SceneType": "Directly photographed",
-        "CustomRendered": "Normal",
-        "ExposureMode": "Auto",
-        "WhiteBalance": "Auto",
-        "DigitalZoomRatio": 0,
-        "SceneCaptureType": "Standard",
-        "Contrast": "Normal",
-        "Saturation": "Normal",
-        "Sharpness": "Normal",
-        "ImageUniqueID": "00000000000000000000000000363313",
-        "SerialNumber": "4824347",
-        "LensInfo": [
-          28,
-          28,
-          2,
-          16
-        ],
-        "LensMake": "Leica Camera AG",
-        "LensModel": "Summicron-M 1:2/28 ASPH.",
-        "LensSerialNumber": "-------"
-      },
-      "gps": {
-        "GPSVersionID": "2.2.0.0",
-        "GPSAltitude": 0,
-        "GPSStatus": "V",
-        "GPSDOP": 0,
-        "GPSSpeed": 0,
-        "GPSTrack": 0
-      }
-    },
-    "hidden": false,
-    "fileSize": null,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T21:35:46.829Z"
-  },
-  {
     "id": 14,
     "filename": "1744320941736-585339278.jpg",
     "title": "Photo 1744320941736-585339278.jpg",
@@ -4160,6 +4078,6 @@
     "hidden": false,
     "fileSize": 12785670,
     "dimensions": "5626x3758",
-    "uploadedAt": "2025-04-10T21:36:07.806Z"
+    "uploadedAt": "2025-04-10T21:37:30.531Z"
   }
 ]
