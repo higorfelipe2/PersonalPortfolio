@@ -3021,5 +3021,75 @@
     "fileSize": 18004864,
     "dimensions": "6201x4134",
     "uploadedAt": "2025-04-10T21:58:03.880Z"
+  },
+  {
+    "id": 14,
+    "filename": "1744323000826-108297563.jpg",
+    "title": "Photo 1744323000826-108297563.jpg",
+    "description": "",
+    "tags": [],
+    "exifData": {
+      "ifd0": {
+        "Make": "FUJIFILM",
+        "Model": "X-E1",
+        "XResolution": 240,
+        "YResolution": 240,
+        "ResolutionUnit": "inches",
+        "Software": "Adobe Lightroom 8.2 (Windows)",
+        "ModifyDate": "2025-03-28T17:49:08.000Z"
+      },
+      "ifd1": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": "inches",
+        "ThumbnailOffset": 848,
+        "ThumbnailLength": 11256
+      },
+      "exif": {
+        "ExposureTime": 0.007142857142857143,
+        "FNumber": 1,
+        "ExposureProgram": "Aperture priority",
+        "ISO": 400,
+        "SensitivityType": 1,
+        "ExifVersion": "2.3.1",
+        "DateTimeOriginal": "2023-07-16T12:18:42.000Z",
+        "CreateDate": "2023-07-16T12:18:42.000Z",
+        "OffsetTime": "+00:00",
+        "ShutterSpeedValue": 7.129283,
+        "ApertureValue": 0,
+        "BrightnessValue": 0.32,
+        "ExposureCompensation": 0,
+        "MeteringMode": "Pattern",
+        "LightSource": "Unknown",
+        "Flash": "Flash did not fire, compulsory flash mode",
+        "FocalLength": 25,
+        "ColorSpace": 1,
+        "FocalPlaneXResolution": 2083.423126220703,
+        "FocalPlaneYResolution": 2083.423126220703,
+        "FocalPlaneResolutionUnit": "Centimeter",
+        "SensingMethod": "One-chip color area sensor",
+        "FileSource": "Digital Camera",
+        "SceneType": "Directly photographed",
+        "CustomRendered": "Normal",
+        "ExposureMode": "Auto",
+        "WhiteBalance": "Auto",
+        "FocalLengthIn35mmFormat": 38,
+        "SceneCaptureType": "Standard",
+        "Sharpness": "Normal",
+        "SubjectDistanceRange": "Unknown",
+        "LensInfo": [
+          25,
+          25,
+          null,
+          null
+        ],
+        "LensModel": "25.0 mm"
+      }
+    },
+    "hidden": false,
+    "fileSize": 7691964,
+    "dimensions": "3264x4896",
+    "uploadedAt": "2025-04-10T22:10:03.177Z"
   }
 ]
