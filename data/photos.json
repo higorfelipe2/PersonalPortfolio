@@ -3981,7 +3981,10 @@
     "filename": "000010580036.jpg",
     "title": "Photo 000010580036.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "film",
+      "street"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 21227706,
