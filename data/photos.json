@@ -4012,7 +4012,10 @@
     "filename": "000116120015_1_.jpg",
     "title": "Photo 000116120015_1_.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "home life",
+      "black and white"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 9139807,
