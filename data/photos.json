@@ -3991,7 +3991,11 @@
     "filename": "FUJI4107.jpg",
     "title": "Photo FUJI4107.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "orange",
+      "blue",
+      "street"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 9171914,
