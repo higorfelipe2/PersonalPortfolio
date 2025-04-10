@@ -2682,7 +2682,7 @@
       "OffsetTime": "+00:00",
       "ColorSpace": 1
     },
-    "hidden": false,
+    "hidden": true,
     "fileSize": 13827978,
     "dimensions": "2472x3422",
     "uploadedAt": "2025-04-10T21:34:04.943Z"
