@@ -3949,7 +3949,11 @@
     "filename": "fuji2151.jpg",
     "title": "Photo fuji2151.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "portrait",
+      "italy",
+      "street"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 8423898,
