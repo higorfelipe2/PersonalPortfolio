@@ -4001,5 +4001,17 @@
     "fileSize": 9171914,
     "dimensions": null,
     "uploadedAt": "2025-04-10T23:10:22.538Z"
+  },
+  {
+    "id": 20,
+    "filename": "6607BA3A-162F-4640-AA04-EA089C4EBAB6-1322-0000007F73A9823C_1_.jpg",
+    "title": "Photo 6607BA3A-162F-4640-AA04-EA089C4EBAB6-1322-0000007F73A9823C_1_.jpg",
+    "description": "",
+    "tags": [],
+    "exifData": null,
+    "hidden": false,
+    "fileSize": 10375562,
+    "dimensions": null,
+    "uploadedAt": "2025-04-10T23:13:26.112Z"
   }
 ]
