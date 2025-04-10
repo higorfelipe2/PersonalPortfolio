@@ -3087,7 +3087,7 @@
         "LensModel": "25.0 mm"
       }
     },
-    "hidden": false,
+    "hidden": true,
     "fileSize": 7691964,
     "dimensions": "3264x4896",
     "uploadedAt": "2025-04-10T22:10:03.177Z"
