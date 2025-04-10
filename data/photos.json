@@ -3964,7 +3964,12 @@
     "filename": "000010430031.jpg",
     "title": "Photo 000010430031.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "green",
+      "film",
+      "portrait",
+      "pink"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 17268251,
