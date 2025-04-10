@@ -3914,125 +3914,362 @@
   },
   {
     "id": 17,
-    "filename": "6607BA3A-162F-4640-AA04-EA089C4EBAB6-1322-0000007F73A9823C_1_.jpg",
-    "title": "Photo 6607BA3A-162F-4640-AA04-EA089C4EBAB6-1322-0000007F73A9823C_1_.jpg",
+    "filename": "DSCF9878.jpg",
+    "title": "Photo DSCF9878.jpg",
     "description": "",
     "tags": [
-      "orange",
-      "Morocco",
-      "red"
-    ],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 10375562,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:17:19.062Z"
-  },
-  {
-    "id": 18,
-    "filename": "000010430017.jpg",
-    "title": "Photo 000010430017.jpg",
-    "description": "",
-    "tags": [
-      "portrait",
-      "black and white"
-    ],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 12591562,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:17:43.520Z"
-  },
-  {
-    "id": 19,
-    "filename": "000010430031.jpg",
-    "title": "Photo 000010430031.jpg",
-    "description": "",
-    "tags": [
-      "green",
-      "film",
-      "portrait",
-      "pink"
-    ],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 17268251,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:17:54.767Z"
-  },
-  {
-    "id": 20,
-    "filename": "000010580036.jpg",
-    "title": "Photo 000010580036.jpg",
-    "description": "",
-    "tags": [
-      "film",
-      "street"
-    ],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 21227706,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:20:10.166Z"
-  },
-  {
-    "id": 21,
-    "filename": "000022290032.jpg",
-    "title": "Photo 000022290032.jpg",
-    "description": "",
-    "tags": [
-      "home life",
       "black and white",
-      "portrait"
+      "street",
+      "portugal"
     ],
-    "exifData": null,
+    "exifData": {
+      "ApplicationRecordVersion": "\u0000\u0004",
+      "Keywords": [
+        "black and white",
+        "street",
+        "Portugal"
+      ],
+      "DateCreated": "2022-11-29T06:36:37",
+      "TimeCreated": "063637",
+      "DigitalCreationDate": "20221129",
+      "DigitalCreationTime": "063637",
+      "CreatorTool": "Adobe Lightroom 8.2 (Windows)",
+      "ModifyDate": "2025-03-28T17:48:51.000Z",
+      "CreateDate": "2022-11-29T06:36:37.000Z",
+      "MetadataDate": "2025-03-28T17:48:51Z",
+      "Rating": 4,
+      "FujiRatingAlreadyApplied": true,
+      "SerialNumber": "1C015586",
+      "LensInfo": [
+        27,
+        27,
+        2.8,
+        2.8
+      ],
+      "Lens": "XF27mmF2.8 R WR",
+      "LensSerialNumber": "2AA01328",
+      "LateralChromaticAberrationCorrectionAlreadyApplied": true,
+      "DistortionCorrectionAlreadyApplied": true,
+      "VignetteCorrectionAlreadyApplied": true,
+      "LensModel": "XF27mmF2.8 R WR",
+      "CameraProfiles": {
+        "Author": "Adobe",
+        "Make": "FUJIFILM",
+        "Model": "X-S10",
+        "UniqueCameraModel": "Fujifilm X-S10",
+        "CameraRawProfile": true,
+        "AutoScale": false,
+        "Lens": "XF27mmF2.8 R WR",
+        "CameraPrettyName": "Fujifilm X-S10",
+        "LensPrettyName": "XF27mmF2.8 R WR",
+        "ProfileName": "Camera Settings",
+        "SensorFormatFactor": 1.531929,
+        "FocalLength": 27,
+        "FocusDistance": 10000,
+        "ApertureValue": 3.356144,
+        "PerspectiveModel": {
+          "Description": {
+            "Version": 2,
+            "ImageXCenter": 0.512821,
+            "ImageYCenter": 0.501442,
+            "ScaleFactor": 1.004111,
+            "RadialDistortParam1": -0.019587,
+            "RadialDistortParam2": -0.427178,
+            "RadialDistortParam3": 0.926892,
+            "VignetteModel": {
+              "Description": {
+                "ImageXCenter": 0.50641,
+                "ImageYCenter": 0.500721,
+                "VignetteModelParam1": 1,
+                "VignetteModelPiecewiseParam": [
+                  "0.000000, 1.000000",
+                  "0.184861, 0.972920",
+                  "0.261457, 0.937295",
+                  "0.320377, 0.882378",
+                  "0.369723, 0.831504",
+                  "0.413545, 0.784370",
+                  "0.452947, 0.741221",
+                  "0.489036, 0.698257",
+                  "0.522915, 0.658940",
+                  "0.554584, 0.658940"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "DocumentID": "xmp.did:d94a5c7b-1ebd-504f-b761-b75b7d17a410",
+      "OriginalDocumentID": "BF9992B2B990C8505FD456E16AA9C443",
+      "InstanceID": "xmp.iid:d94a5c7b-1ebd-504f-b761-b75b7d17a410",
+      "History": [
+        {
+          "action": "derived",
+          "parameters": "converted from image/x-fuji-raw to image/dng, saved to new location"
+        },
+        {
+          "action": "saved",
+          "instanceID": "xmp.iid:c0aa1353-e1ad-7a41-8bc7-f65f94bdd650",
+          "when": "2024-07-21T22:55:17+01:00",
+          "softwareAgent": "Adobe Photoshop Lightroom Classic 13.3.1 (Windows)",
+          "changed": "/"
+        },
+        {
+          "action": "edited",
+          "when": "2025-03-28T17:19:44Z"
+        },
+        {
+          "action": "converted",
+          "parameters": "from image/dng to image/x-fuji-raw"
+        },
+        {
+          "action": "derived",
+          "parameters": "converted from image/x-fuji-raw to image/jpeg, saved to new location"
+        },
+        {
+          "action": "saved",
+          "instanceID": "xmp.iid:d94a5c7b-1ebd-504f-b761-b75b7d17a410",
+          "when": "2025-03-28T17:48:51Z",
+          "softwareAgent": "Adobe Lightroom 8.2 (Windows)",
+          "changed": "/"
+        }
+      ],
+      "DerivedFrom": {
+        "instanceID": "xmp.iid:c0aa1353-e1ad-7a41-8bc7-f65f94bdd650",
+        "documentID": "xmp.did:c0aa1353-e1ad-7a41-8bc7-f65f94bdd650",
+        "originalDocumentID": "BF9992B2B990C8505FD456E16AA9C443"
+      },
+      "format": "image/jpeg",
+      "subject": [
+        "black and white",
+        "street",
+        "Portugal"
+      ],
+      "good": true,
+      "RawFileName": "DSCF9878.RAF",
+      "Version": 17.2,
+      "ProcessVersion": 15.4,
+      "WhiteBalance": "Auto",
+      "Temperature": 3350,
+      "Tint": 30,
+      "Exposure2012": 0,
+      "Contrast2012": 0,
+      "Highlights2012": 0,
+      "Shadows2012": 0,
+      "Whites2012": 0,
+      "Blacks2012": 0,
+      "Texture": 0,
+      "Clarity2012": 0,
+      "Dehaze": 0,
+      "Vibrance": 0,
+      "Saturation": 0,
+      "ParametricShadows": 0,
+      "ParametricDarks": 0,
+      "ParametricLights": 0,
+      "ParametricHighlights": 0,
+      "ParametricShadowSplit": 25,
+      "ParametricMidtoneSplit": 50,
+      "ParametricHighlightSplit": 75,
+      "Sharpness": "Normal",
+      "SharpenRadius": 1,
+      "SharpenDetail": 25,
+      "SharpenEdgeMasking": 0,
+      "LuminanceSmoothing": 0,
+      "ColorNoiseReduction": 25,
+      "ColorNoiseReductionDetail": 50,
+      "ColorNoiseReductionSmoothness": 50,
+      "GrayMixerRed": 0,
+      "GrayMixerOrange": 0,
+      "GrayMixerYellow": 0,
+      "GrayMixerGreen": 0,
+      "GrayMixerAqua": 0,
+      "GrayMixerBlue": 0,
+      "GrayMixerPurple": 0,
+      "GrayMixerMagenta": 0,
+      "HueAdjustmentRed": 0,
+      "HueAdjustmentOrange": 0,
+      "HueAdjustmentYellow": 0,
+      "HueAdjustmentGreen": 0,
+      "HueAdjustmentAqua": 0,
+      "HueAdjustmentBlue": 0,
+      "HueAdjustmentPurple": 0,
+      "HueAdjustmentMagenta": 0,
+      "SaturationAdjustmentRed": 0,
+      "SaturationAdjustmentOrange": 0,
+      "SaturationAdjustmentYellow": 0,
+      "SaturationAdjustmentGreen": 0,
+      "SaturationAdjustmentAqua": 0,
+      "SaturationAdjustmentBlue": 0,
+      "SaturationAdjustmentPurple": 0,
+      "SaturationAdjustmentMagenta": 0,
+      "LuminanceAdjustmentRed": 0,
+      "LuminanceAdjustmentOrange": 0,
+      "LuminanceAdjustmentYellow": 0,
+      "LuminanceAdjustmentGreen": 0,
+      "LuminanceAdjustmentAqua": 0,
+      "LuminanceAdjustmentBlue": 0,
+      "LuminanceAdjustmentPurple": 0,
+      "LuminanceAdjustmentMagenta": 0,
+      "SplitToningShadowHue": 0,
+      "SplitToningShadowSaturation": 0,
+      "SplitToningHighlightHue": 0,
+      "SplitToningHighlightSaturation": 0,
+      "SplitToningBalance": 0,
+      "ColorGradeMidtoneHue": 0,
+      "ColorGradeMidtoneSat": 0,
+      "ColorGradeShadowLum": 0,
+      "ColorGradeMidtoneLum": 0,
+      "ColorGradeHighlightLum": 0,
+      "ColorGradeBlending": 50,
+      "ColorGradeGlobalHue": 0,
+      "ColorGradeGlobalSat": 0,
+      "ColorGradeGlobalLum": 0,
+      "AutoLateralCA": 1,
+      "LensProfileEnable": 1,
+      "LensManualDistortionAmount": 0,
+      "VignetteAmount": 0,
+      "DefringePurpleAmount": 0,
+      "DefringePurpleHueLo": 30,
+      "DefringePurpleHueHi": 70,
+      "DefringeGreenAmount": 0,
+      "DefringeGreenHueLo": 40,
+      "DefringeGreenHueHi": 60,
+      "PerspectiveUpright": 0,
+      "PerspectiveVertical": 0,
+      "PerspectiveHorizontal": 0,
+      "PerspectiveRotate": 0,
+      "PerspectiveAspect": 0,
+      "PerspectiveScale": 100,
+      "PerspectiveX": 0,
+      "PerspectiveY": 0,
+      "GrainAmount": 0,
+      "PostCropVignetteAmount": 0,
+      "ShadowTint": 0,
+      "RedHue": 0,
+      "RedSaturation": 0,
+      "GreenHue": 0,
+      "GreenSaturation": 0,
+      "BlueHue": 0,
+      "BlueSaturation": 0,
+      "HDREditMode": 0,
+      "OverrideLookVignette": false,
+      "ToneCurveName2012": "Linear",
+      "CameraProfile": "Adobe Standard",
+      "CameraProfileDigest": "E5A54EEF1A4EC68C07ABDCDE7EF69BE2",
+      "LensProfileSetup": "LensDefaults",
+      "LensProfileName": "Camera Settings",
+      "LensProfileDigest": "91406BFD42788428479079CEC63ADA15",
+      "LensProfileIsEmbedded": true,
+      "LensProfileDistortionScale": 100,
+      "LensProfileVignettingScale": 100,
+      "HasSettings": true,
+      "CropTop": 0,
+      "CropLeft": 0,
+      "CropBottom": 1,
+      "CropRight": 1,
+      "CropAngle": 0,
+      "CropConstrainToWarp": 0,
+      "HasCrop": false,
+      "AlreadyApplied": true,
+      "ToneCurvePV2012": [
+        "0, 0",
+        "255, 255"
+      ],
+      "ToneCurvePV2012Red": [
+        "0, 0",
+        "255, 255"
+      ],
+      "ToneCurvePV2012Green": [
+        "0, 0",
+        "255, 255"
+      ],
+      "ToneCurvePV2012Blue": [
+        "0, 0",
+        "255, 255"
+      ],
+      "PointColors": "-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000",
+      "Look": {
+        "Description": {
+          "Name": "Adobe Monochrome",
+          "Amount": 1,
+          "UUID": "0CFE8F8AB5F63B2A73CE0B0077D20817",
+          "SupportsAmount": false,
+          "SupportsMonochrome": false,
+          "SupportsOutputReferred": false,
+          "Group": {
+            "lang": "x-default",
+            "value": "Profiles"
+          },
+          "Parameters": {
+            "Description": {
+              "Version": 17.2,
+              "ProcessVersion": 15.4,
+              "Clarity2012": 8,
+              "ConvertToGrayscale": true,
+              "CameraProfile": "Adobe Standard",
+              "LookTable": "73ED6C18DDE909DD7EA2D771F5AC282D",
+              "ToneCurvePV2012": [
+                "0, 0",
+                "64, 56",
+                "128, 128",
+                "192, 197",
+                "255, 255"
+              ],
+              "ToneCurvePV2012Red": [
+                "0, 0",
+                "255, 255"
+              ],
+              "ToneCurvePV2012Green": [
+                "0, 0",
+                "255, 255"
+              ],
+              "ToneCurvePV2012Blue": [
+                "0, 0",
+                "255, 255"
+              ]
+            }
+          }
+        }
+      },
+      "Make": "FUJIFILM",
+      "Model": "X-S10",
+      "XResolution": 240,
+      "YResolution": 240,
+      "ResolutionUnit": "inches",
+      "Software": "Adobe Lightroom 8.2 (Windows)",
+      "ExposureTime": 0.025,
+      "FNumber": 3.2,
+      "ExposureProgram": "Aperture priority",
+      "ISO": 6400,
+      "SensitivityType": 1,
+      "ExifVersion": "2.3.2",
+      "DateTimeOriginal": "2022-11-29T06:36:37.000Z",
+      "OffsetTime": "+00:00",
+      "ShutterSpeedValue": 5.321928,
+      "ApertureValue": 3.356144,
+      "BrightnessValue": -2.98,
+      "ExposureCompensation": 0,
+      "MaxApertureValue": 3,
+      "MeteringMode": "Pattern",
+      "LightSource": "Unknown",
+      "Flash": "Flash did not fire",
+      "FocalLength": 27,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": "Centimeter",
+      "SensingMethod": "One-chip color area sensor",
+      "FileSource": "Digital Camera",
+      "SceneType": "Directly photographed",
+      "CustomRendered": "Normal",
+      "ExposureMode": "Auto",
+      "FocalLengthIn35mmFormat": 41,
+      "SceneCaptureType": "Standard",
+      "SubjectDistanceRange": "Unknown",
+      "LensMake": "FUJIFILM"
+    },
     "hidden": false,
-    "fileSize": 17494986,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:23:11.526Z"
-  },
-  {
-    "id": 22,
-    "filename": "000116120015_1_.jpg",
-    "title": "Photo 000116120015_1_.jpg",
-    "description": "",
-    "tags": [
-      "home life",
-      "black and white"
-    ],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 9139807,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:23:46.071Z"
-  },
-  {
-    "id": 23,
-    "filename": "D0973F59-70FF-4762-B899-11824F25A283-1322-000000822BB72EBE.jpg",
-    "title": "Photo D0973F59-70FF-4762-B899-11824F25A283-1322-000000822BB72EBE.jpg",
-    "description": "",
-    "tags": [
-      "blue",
-      "orange",
-      "Morocco",
-      "street"
-    ],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 5501007,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:26:16.450Z"
-  },
-  {
-    "id": 26,
-    "filename": "DSC_0678__1_.jpg",
-    "title": "Photo DSC_0678__1_.jpg",
-    "description": "",
-    "tags": [],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 11511218,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T23:42:31.207Z"
+    "fileSize": 14493203,
+    "dimensions": "6240x4160",
+    "uploadedAt": "2025-04-10T23:44:08.022Z"
   }
 ]
