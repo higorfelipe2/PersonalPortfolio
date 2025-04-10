@@ -3996,7 +3996,11 @@
     "filename": "000022290032.jpg",
     "title": "Photo 000022290032.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "home life",
+      "black and white",
+      "portrait"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 17494986,
