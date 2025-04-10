@@ -4951,29 +4951,5 @@
     "fileSize": 12810061,
     "dimensions": "6240x4160",
     "uploadedAt": "2025-04-10T22:30:21.925Z"
-  },
-  {
-    "id": 19,
-    "filename": "DSCF0447.jpg",
-    "title": "Photo DSCF0447.jpg",
-    "description": "",
-    "tags": [],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 13729839,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T22:46:01.500Z"
-  },
-  {
-    "id": 20,
-    "filename": "dehancer_2024-03-28_21_39_24_UTC.jpg",
-    "title": "Photo dehancer_2024-03-28_21_39_24_UTC.jpg",
-    "description": "",
-    "tags": [],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 16383817,
-    "dimensions": null,
-    "uploadedAt": "2025-04-10T22:46:52.012Z"
   }
 ]
