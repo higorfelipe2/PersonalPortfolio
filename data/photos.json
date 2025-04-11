@@ -3997,7 +3997,10 @@
     "filename": "DSCF9645.jpg",
     "title": "Photo DSCF9645.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "yellow",
+      "street"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 13413598,
