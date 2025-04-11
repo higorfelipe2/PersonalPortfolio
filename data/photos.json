@@ -3981,7 +3981,11 @@
     "filename": "DSCF9623.jpg",
     "title": "Photo DSCF9623.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "yellow",
+      "green",
+      "street"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 18631985,
