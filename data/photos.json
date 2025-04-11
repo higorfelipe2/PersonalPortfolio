@@ -4012,7 +4012,10 @@
     "filename": "L1001369.jpg",
     "title": "Photo L1001369.jpg",
     "description": "",
-    "tags": [],
+    "tags": [
+      "street",
+      "red"
+    ],
     "exifData": null,
     "hidden": false,
     "fileSize": 12785670,
