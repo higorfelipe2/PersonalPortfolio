@@ -3977,7 +3977,7 @@
     "uploadedAt": "2025-04-10T23:53:32.712Z"
   },
   {
-    "id": 22,
+    "id": 21,
     "filename": "DSCF9623.jpg",
     "title": "Photo DSCF9623.jpg",
     "description": "",
@@ -3991,17 +3991,5 @@
     "fileSize": 18631985,
     "dimensions": null,
     "uploadedAt": "2025-04-11T00:02:20.775Z"
-  },
-  {
-    "id": 23,
-    "filename": "DSCF9645.jpg",
-    "title": "Photo DSCF9645.jpg",
-    "description": "",
-    "tags": [],
-    "exifData": null,
-    "hidden": false,
-    "fileSize": 13413598,
-    "dimensions": null,
-    "uploadedAt": "2025-04-11T00:03:06.616Z"
   }
 ]
