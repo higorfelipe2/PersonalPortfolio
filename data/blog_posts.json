@@ -8,19 +8,5 @@
     "imageUrl": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81",
     "publishedAt": "2025-03-28T23:56:57.003Z",
     "updatedAt": "2025-03-28T23:56:57.003Z"
-  },
-  {
-    "id": 2,
-    "title": "Building an Optimized Image Gallery with React",
-    "content": "<p>Detailed content about building React image galleries would go here...</p>",
-    "excerpt": "Learn how to create a fast, responsive image gallery using React and modern web optimization techniques.",
-    "category": "Development",
-    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
-    "publishedAt": "2025-03-28T23:56:57.004Z",
-    "updatedAt": "2025-03-29T01:57:46.459Z",
-    "categories": [
-      "Creativity",
-      "Photography"
-    ]
   }
 ]
